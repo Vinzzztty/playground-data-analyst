@@ -1,1 +1,1 @@
-ini link deploy streamlit
+https://playground-data-analyst-5jhcgtbvdjyquupbay7b3p.streamlit.app/
