@@ -7,7 +7,9 @@ import streamlit as st
 sns.set(style="dark")
 
 # Load dataset
-df = pd.read_csv("main_data.csv")
+df = pd.read_csv(
+    "https://raw.githubusercontent.com/Vinzzztty/playground-data-analyst/main/Analisis%20Data/submission/dashboard/main_data.csv"
+)
 
 # Set header
 st.header("Proyek Analisis Data: Air Quality")
